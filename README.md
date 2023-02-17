@@ -8,6 +8,7 @@ https://www.anoopcnair.com/start-menu-taskbar-custom-layout-intune-cloudpc/
 ### Remove Windows 10 built-in apps with Intune & Microsoft Store for Business Apps
 - https://blog.mindcore.dk/2021/05/remove-windows-10-built-in-apps-with/
 - https://w365.dk/index.php/2021/09/10/remove-windows-10-built-in-apps-with-intune/
+- Confirmed working 2-23
 
 ### Creating/Removing desktop shortcuts with Intune
 - https://tech.nicolonsky.ch/intune-create-desktop-shortcut/
