@@ -2,8 +2,11 @@
 
 list below in format url /n #description
 
-#Deploy Start Menu Taskbar Custom Layout Settings using Intune
-https://www.anoopcnair.com/start-menu-taskbar-custom-layout-intune-cloudpc/
+### RDeploy Start Menu Taskbar Custom Layout Settings using Intune
+- https://www.anoopcnair.com/start-menu-taskbar-custom-layout-intune-cloudpc/
+
+### Deploy Zoom Using Intune Step by Step Guide
+- https://www.anoopcnair.com/deploy-zoom-using-intune-step-by-step-guide/
 
 ### Remove Windows 10 built-in apps with Intune & Microsoft Store for Business Apps
 - https://blog.mindcore.dk/2021/05/remove-windows-10-built-in-apps-with/
@@ -13,10 +16,6 @@ https://www.anoopcnair.com/start-menu-taskbar-custom-layout-intune-cloudpc/
 ### Creating/Removing desktop shortcuts with Intune
 - https://tech.nicolonsky.ch/intune-create-desktop-shortcut/
 - Confirmed working 2-23
-
-### Deploy Zoom Using Intune Step by Step Guide
-- https://www.anoopcnair.com/deploy-zoom-using-intune-step-by-step-guide/
-
 
 ### Cisco AnyConnect + Profile
 - https://www.youtube.com/watch?v=vk3W8G0SvwY
