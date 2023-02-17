@@ -13,6 +13,10 @@ list below in format url /n #description
 - https://w365.dk/index.php/2021/09/10/remove-windows-10-built-in-apps-with-intune/
 - Confirmed working 2-23
 
+### Remove Windows 10 Apps ie: Solitaire (SCRIPT)
+https://deviceadvice.io/2020/01/13/deploy-a-powershell-script-with-intune-to-remove-solitaire-or-any-other-built-in-windows-10-app/
+- Confirmed working 2-23
+
 ### Creating/Removing desktop shortcuts with Intune
 - https://tech.nicolonsky.ch/intune-create-desktop-shortcut/
 - Confirmed working 2-23
