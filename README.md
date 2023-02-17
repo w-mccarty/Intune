@@ -4,6 +4,7 @@ list below in format url /n #description
 
 ### Remove Windows 10 built-in apps with Intune & Microsoft Store for Business Apps
 - https://blog.mindcore.dk/2021/05/remove-windows-10-built-in-apps-with/
+- https://w365.dk/index.php/2021/09/10/remove-windows-10-built-in-apps-with-intune/
 
 
 ### Creating/Removing desktop shortcuts with Intune
