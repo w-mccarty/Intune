@@ -4,6 +4,7 @@ list below in format url /n #description
 
 ### Edge config
 - https://mrshannon.wordpress.com/2020/07/10/configure-auto-sign-in-and-sync-for-edge-with-intune/
+- https://cloudinfra.net/set-microsoft-edge-home-page-startup-page-and-new-tab-page-using-microsoft-intune/
 - First-run (search for and disable using config profile > template)
 
 ### install Citrix
