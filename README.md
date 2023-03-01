@@ -4,6 +4,7 @@ list below in format url /n #description
 
 ### Edge config
 - https://mrshannon.wordpress.com/2020/07/10/configure-auto-sign-in-and-sync-for-edge-with-intune/
+- First-run (search for and disable using config profile > template)
 
 ### install Citrix
 - https://www.anoopcnair.com/deploy-citrix-workspace-app-using-intune/
@@ -42,6 +43,7 @@ list below in format url /n #description
 ### Drive Letter mapping
 - https://call4cloud.nl/2021/03/willy-wonka-and-the-drive-letter-factory/
 - https://intunedrivemapping.azurewebsites.net/DriveMapping
+- https://www.anoopcnair.com/managing-network-drive-mappings-with-intune/
 - Confirmed working 2-23
 
 ### Intune Printer + Drivers
