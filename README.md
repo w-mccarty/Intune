@@ -2,11 +2,16 @@
 
 list below in format url /n #description
 
+### install Citrix
+- https://www.anoopcnair.com/deploy-citrix-workspace-app-using-intune/
+
 ### RDeploy Start Menu Taskbar Custom Layout Settings using Intune
-- https://www.anoopcnair.com/start-menu-taskbar-custom-layout-intune-cloudpc/
+- https://www.anoopcnair.com/start-menu-taskbar-custom-layout-intune-cloudpc
+- Confirmed working 2-23
 
 ### Deploy Zoom Using Intune Step by Step Guide
 - https://www.anoopcnair.com/deploy-zoom-using-intune-step-by-step-guide/
+- Confirmed working 2-23
 
 ### Remove Windows 10 built-in apps with Intune & Microsoft Store for Business Apps
 - https://blog.mindcore.dk/2021/05/remove-windows-10-built-in-apps-with/
@@ -31,11 +36,8 @@ list below in format url /n #description
 
 ### Drive Letter mapping
 - https://call4cloud.nl/2021/03/willy-wonka-and-the-drive-letter-factory/
-- Confirmed working 2-23
-
-### Intune Drive Mapping Generator
 - https://intunedrivemapping.azurewebsites.net/DriveMapping
-
+- Confirmed working 2-23
 
 ### Intune Printer + Drivers
 - https://call4cloud.nl/2021/07/what-about-printer-drivers/
