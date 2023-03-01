@@ -2,9 +2,13 @@
 
 list below in format url /n #description
 
+### Edge config
+- https://mrshannon.wordpress.com/2020/07/10/configure-auto-sign-in-and-sync-for-edge-with-intune/
+
 ### install Citrix
 - https://www.anoopcnair.com/deploy-citrix-workspace-app-using-intune/
 - https://silentinstallhq.com/citrix-workspace-app-silent-install-how-to-guide/
+- Confirmed working 3-23
 
 ### RDeploy Start Menu Taskbar Custom Layout Settings using Intune
 - https://www.anoopcnair.com/start-menu-taskbar-custom-layout-intune-cloudpc
