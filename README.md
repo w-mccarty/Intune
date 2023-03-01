@@ -4,6 +4,7 @@ list below in format url /n #description
 
 ### install Citrix
 - https://www.anoopcnair.com/deploy-citrix-workspace-app-using-intune/
+- https://silentinstallhq.com/citrix-workspace-app-silent-install-how-to-guide/
 
 ### RDeploy Start Menu Taskbar Custom Layout Settings using Intune
 - https://www.anoopcnair.com/start-menu-taskbar-custom-layout-intune-cloudpc
