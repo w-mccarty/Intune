@@ -2,10 +2,16 @@
 
 list below in format url /n #description
 
+###Timezone
+- https://deviceadvice.io/2021/10/21/set-time-zone-automatically-during-autopilot/
+- https://msendpointmgr.com/2020/05/20/automatically-set-time-zone-for-devices-provisioned-using-windows-autopilot/
+- Confirmed 3/23
+
 ### Edge config
 - https://mrshannon.wordpress.com/2020/07/10/configure-auto-sign-in-and-sync-for-edge-with-intune/
 - https://cloudinfra.net/set-microsoft-edge-home-page-startup-page-and-new-tab-page-using-microsoft-intune/
 - First-run (search for and disable using config profile > template)
+- Confirmed 3/23
 
 ### install Citrix
 - https://www.anoopcnair.com/deploy-citrix-workspace-app-using-intune/
@@ -51,3 +57,6 @@ list below in format url /n #description
 ### Intune Printer + Drivers
 - https://call4cloud.nl/2021/07/what-about-printer-drivers/
 - Confirmed working 2-23
+
+###Logging
+- https://stackoverflow.com/questions/34663173/hiding-the-folders-using-powershell
