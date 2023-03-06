@@ -2,7 +2,7 @@
 
 list below in format url /n #description
 
-###Timezone
+### Timezone
 - https://deviceadvice.io/2021/10/21/set-time-zone-automatically-during-autopilot/
 - https://msendpointmgr.com/2020/05/20/automatically-set-time-zone-for-devices-provisioned-using-windows-autopilot/
 - Confirmed 3/23
@@ -58,5 +58,5 @@ list below in format url /n #description
 - https://call4cloud.nl/2021/07/what-about-printer-drivers/
 - Confirmed working 2-23
 
-###Logging
+### Logging
 - https://stackoverflow.com/questions/34663173/hiding-the-folders-using-powershell
