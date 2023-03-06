@@ -45,6 +45,7 @@ list below in format url /n #description
 - https://call4cloud.nl/2021/03/willy-wonka-and-the-drive-letter-factory/
 - https://intunedrivemapping.azurewebsites.net/DriveMapping
 - https://www.anoopcnair.com/managing-network-drive-mappings-with-intune/
+- https://superuser.com/questions/885754/where-does-windows-store-network-drive-mappings
 - Confirmed working 2-23
 
 ### Intune Printer + Drivers
