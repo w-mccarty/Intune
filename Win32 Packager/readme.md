@@ -1,3 +1,5 @@
+ps1 to keep your Win32 app packaging projects organized with easy app creation, versioning, and archiving.
+
 # Install
 
 + Download install.ps1 to directory where you will store Win32 Intune files
