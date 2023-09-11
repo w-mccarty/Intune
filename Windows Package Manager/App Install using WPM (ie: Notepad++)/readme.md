@@ -1,3 +1,5 @@
+## IMPORTANT:  Dependencies = Windows Package Manager
+
 # App Information
 
 Information URL = https://winget.run/pkg/Notepad++/Notepad++
