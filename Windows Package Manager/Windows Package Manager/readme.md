@@ -1,4 +1,4 @@
-# Program
+### Program
 
 Install command = %SystemRoot%\sysnative\WindowsPowerShell\v1.0\powershell.exe -windowstyle hidden -executionpolicy bypass -command .\install.ps1
 
@@ -12,13 +12,13 @@ Install behavior = System
 
 Device restart behavior = App install may force a device restart
 
-# Requreiments
+### Requreiments
 
 Operating system architecture = x64
 
 Minimum operating system = Windows 10 1607
 
-# Detection
+### Detection
 
 Rules format = Use a custom detection script (Detection.ps1)
 
