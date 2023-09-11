@@ -20,7 +20,7 @@ Minimum operating system = Windows 10 1607
 
 # Detection
 
-Rules format = Use a custom detection script (check.ps1)
+Rules format = Use a custom detection script (Detection.ps1)
 
 Run script as 32-bit process on 64-bit clients = No
 
