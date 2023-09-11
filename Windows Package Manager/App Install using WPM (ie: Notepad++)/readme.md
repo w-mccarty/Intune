@@ -1,3 +1,7 @@
+# App Information
+
+Information URL = https://winget.run/pkg/Notepad++/Notepad++
+
 # Program
 
 Install command = %SystemRoot%\sysnative\WindowsPowerShell\v1.0\powershell.exe -windowstyle hidden -executionpolicy bypass -command .\install.ps1
